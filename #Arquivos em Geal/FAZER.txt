@@ -1,0 +1,2 @@
+Vincular o banco de dados e testar o botao salvar em todos os campos vinculados ao banco de dados
+fazer a condição switch para os campos em branco na tela de cadastro com as propriedades de error

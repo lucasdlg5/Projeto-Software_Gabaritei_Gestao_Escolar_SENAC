@@ -1,0 +1,26 @@
+Fazer
+
+Trocar os nomes dos icones
+
+btn = Botão menu principal
+[
+btn_alunos
+btn_professores
+btn_turmas
+btn_calendario
+btn_sobre (Alignment = Right)
+]
+
+---------------------------------------------------------------------------------------------------
+
+tsp_principal = Barra de menus da janela principal
+[
+
+]
+
+---------------------------------------------------------------------------------------------------
+
+Splash
+
+FormBorderStyle = None
+StartPosition = CenterScreen

@@ -1,0 +1,39 @@
+Janelas:
+1 - Tela login
+2 - Tela principal
+
+- Abas
+	- Janelas:
+
+3 - Cadastro de Curso
+	- Manutenção de curso
+		- Alteração de Curso
+
+4 - Cadastro de Matéria
+	- Manutenção de matéria
+		- Alteração de Registro
+
+5 - Cadastro de Turma
+	- Manutenção de Turmas
+
+6 - Cdastro de Aluno
+	- Manutenção de Alunos
+		- Alteração de Aluno
+
+7 - Cadastro de Funcionario
+	- Manutenção de Funcionário
+		- Altereação de Funcionario
+
+8 - Gerenciamento de Turma
+
+9 - Digitação de Notas
+
+10 - Configuração de impressora
+
+11 - Autenticação de Recebimento
+
+12 - Troca de Usuário (Logoff)
+	- Troca de Usuario
+
+13 - Sair do Sitema (Alt+f4)
+	- Sair do Sistema
